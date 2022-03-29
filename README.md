@@ -23,6 +23,7 @@
 ![Github](https://img.shields.io/badge/-Github-282c34?style=for-the-badge&logo=Github)
 ![StoryBook](https://img.shields.io/badge/-StoryBook-282c34?style=for-the-badge&logo=StoryBook)
 ![Material-UI](https://img.shields.io/badge/-Material_UI-282c34?style=for-the-badge&logo=material_design)
+![React-hook-form](https://img.shields.io/badge/-REACT_HOOK_FORM-282c34?style=for-the-badge&logo=material_design)
 
 
 #### Contact details:
