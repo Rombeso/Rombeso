@@ -32,4 +32,4 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-282c34?style=for-the-badge&logo=linkedin&logoColor=764ABC)](https://www.linkedin.com/in/roman-larionov-60586876/)
 
 #### My portfolio:
-[![Portfolio](https://img.shields.io/badge/-Linkedin-282c34?style=for-the-badge&logo=linkedin&logoColor=764ABC)](https://rombeso.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-282c34?style=for-the-badge&logo=Portfolio&logoColor=764ABC)](https://rombeso.github.io/portfolio/)
