@@ -1,10 +1,10 @@
 ## Hi there! 👋  
 
-## I'm Maria Syrokvash.
+## I'm Roman Larionov.
 
 #### Frontend developer who has a results-focused attitude to creating SPA, using React(JS/TS), Redux.
 
-#### My free time is dedicated to [Codewars](https://www.codewars.com/users/MariaSyrokvash), programming tutorials, and becoming familiar with NodeJS, because, in the future, I see myself as a Full Stack Developer.
+#### My free time is dedicated to [Codewars](https://www.codewars.com/users/Rombeso), programming tutorials, and becoming familiar with NodeJS, because, in the future, I see myself as a Full Stack Developer.
 
 #### Skills:
 ![React](https://img.shields.io/badge/-React-282c34?style=for-the-badge&logo=react)
@@ -27,5 +27,5 @@
 
 #### Contact details:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=telegram)](https://t.me/MariaSyrokvash)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-282c34?style=for-the-badge&logo=linkedin&logoColor=764ABC)](https://www.linkedin.com/in/maria-syrokvash-397934125/)
+[![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=telegram)](https://t.me/rombeso)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-282c34?style=for-the-badge&logo=linkedin&logoColor=764ABC)](https://www.linkedin.com/in/roman-larionov-60586876/)
